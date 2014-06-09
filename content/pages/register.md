@@ -1,13 +1,13 @@
-Title: Register
-Date: 2014-06-06 10:47
+Title: Anmeldung
+Date: 2014-06-07 10:47
 Category: Conference
-Tags: org
-Slug: register
+Tags: Organisation
+Slug: anmeldung
 Author: Robert Weißgraeber
-Summary: Register for clunc
+Summary: Anmeldung zur clunc
 
 
-## Register now: 49 Tickets verfügbar!
+## Jetzt anmelden: 49 Tickets verfügbar!
 
 Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung! Wir schicken euch eine Rechnung an die angegebene Adresse.
 
