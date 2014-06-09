@@ -38,10 +38,10 @@ Summary: Über Clunc
 
 
 ### Veranstalter
-* Veranstaltet von der aexea GmbH in Partnerschaft mit der Medien- und Filmgesellschaft (MFG) Stuttgart
+Veranstaltet von der aexea GmbH in Partnerschaft mit der Medien- und Filmgesellschaft (MFG) Stuttgart
 
 
-### Was ist ein Barcamp?
+#### Was ist ein Barcamp?
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
 
 [1]: https://www.youtube.com/watch?v=q6UenIRb0Yk
