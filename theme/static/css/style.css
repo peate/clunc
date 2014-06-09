@@ -14,6 +14,7 @@ article { padding-left:1em; }
 background: #2B2B2B; /* Header color */
 height: 100%; 
 margin-bottom: 1em; 
+font-size: 80%;
 }
 
 .top-bar a { color: #fff } /* Sitename color */
