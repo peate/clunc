@@ -1,4 +1,4 @@
-Title: Anfahrt zu clunc
+Title: Anfahrt 
 Date: 2014-06-09
 Category: Clunc
 Tags: clunc, Barcamp, Computer linguistik Unconference
