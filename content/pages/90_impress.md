@@ -2,7 +2,7 @@ Title: Impressum
 Date: 2014-06-09
 Category: 
 Tags: impressum, aexea, clunc, barcamp
-Slug: z_impress
+Slug: 90_impressum
 Author: Danijela Grgic
 Summary: Impressum für clunc
 
