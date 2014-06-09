@@ -11,23 +11,23 @@ Summary: Über Clunc
 
 <table>
     <tr>
-        <td>*Wann?*</td>
+        <td>Wann?</td>
         <td>11.07. - 12.07.2014</td>
     </tr>
         <tr>
-        <td>*Wo?*</td>
+        <td>Wo?</td>
         <td>in Stuttgart</td>
     </tr>
         <tr>
-        <td>*Wer?*</td>
+        <td>Wer?</td>
         <td>Computerlinguistinnen und Computerlinguisten - oder solche die dabei sind, es zu werden.</td>
     </tr>
         <tr>
-        <td>*Anmeldung?*</td>
+        <td>Anmeldung?</td>
         <td>noch 49 Plätze frei!</td>
     </tr>
         <tr>
-        <td>*Kosten?*</td>
+        <td>Kosten?</td>
         <td>symbolischer 25 EUR Unkostenbeitrag</td>
     </tr>
 </table>
