@@ -4,7 +4,20 @@ Category: Marketing
 Tags: clunc, publishing
 Slug: website-launch
 Author: Robert Weißgraeber 
-Summary: clunc - erste unconference für Computer Lingusitik
+Summary: Vom 11.7. bis 12.7. wird die erste Computational Linguistics Unconference (clunc) stattfinden
+
+Im Juli findet die erste Computational Linguistics Unconference statt
+
+# Fakten
+* vom 11.7. bis 12.7. 
+* in Stuttgart
+* Format: Unconference
+* bis zu 49 Teilnehmerinnen und Teilnehmer
+
+* Anmeldung
+* 
+
+# Was ist eine Unconference (Barcamp)?
 
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
 
