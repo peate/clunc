@@ -7,9 +7,9 @@ Author: Robert Weißgraeber
 Summary: Register for clunc
 
 # Register Now!
-## 49 Seats available!
+## 49 Tickets verfügbar!
 
-the two-day ticket costs 25EUR including VAT and Food!
+Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
