@@ -1,10 +1,11 @@
-Title: My super title
-Date: 2010-12-03 10:20
-Category: Python
-Tags: pelican, publishing
-Slug: 2my-super-post
-Author: Alexis Metaireau
-Summary: Short version for index and feeds
+Title: Die erste Unconference für Computer Linguistik - das CLUnc
+Date: 2014-06-09
+Category: Clunc
+Tags: Clunc, Barcamp, Computer linguistik Unconference
+Slug: 
+Author: Danijela Grgic
+Summary: About Clunc
 
-This is the content of my super blog post.
+Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
 
+[1]: https://www.youtube.com/watch?v=q6UenIRb0Yk
