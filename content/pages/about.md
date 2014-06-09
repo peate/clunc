@@ -9,6 +9,13 @@ Summary: Über Clunc
 
 # Die erste Unconference für Computer Linguistik - das CLUnc
 
+<table>
+    <tr>
+        <td>Foo</td>
+        <td>2</td>
+    </tr>
+</table>
+
 ### Wann? - 11.07. - 12.07.2014
 
 ### Wo? - in Stuttgart
