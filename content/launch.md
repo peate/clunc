@@ -14,7 +14,7 @@ Im Juli findet die erste Computational Linguistics Unconference statt
 * Format: Unconference
 * bis zu 49 Teilnehmerinnen und Teilnehmer
 
-* zur [Anmeldung] (/register/)
+* zur [Anmeldung] (/content/register/)
 
 
 ## Was ist eine Unconference (Barcamp)?
