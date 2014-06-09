@@ -1,10 +1,14 @@
-Title: CLUNC Website has launched
+Title: Willkommen zu CLUNC - der ersten Unconference für Computer Linguistik
 Date: 2014-06-06 10:20
 Category: Marketing
 Tags: clunc, publishing
 Slug: website-launch
 Author: Robert Weißgraeber 
-Summary: The clunc website has launched!
+Summary: clunc - erste unconference für Computer Lingusitik
+
+Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
+
+[1]: https://www.youtube.com/watch?v=q6UenIRb0Yk
 
 
 ## Was ist Computer Linguistik?
