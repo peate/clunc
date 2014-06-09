@@ -21,7 +21,7 @@ Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung!
 <div id="mc_embed_signup">
 <form action="http://aexea.us8.list-manage.com/subscribe/post?u=df9bb74c49eb8a56bba561233&amp;id=3e30ed51a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <h2>Anmeldung zur CL Unconfernece</h2>
-<div class="indicates-required"><span class="asterisk">*</span> *Pflichtfelder</div>
+<div class="indicates-required"><span class="asterisk">*</span> Pflichtfelder</div>
 <div class="mc-field-group">
 <label for="mce-EMAIL">Email Adresse  <span class="asterisk">*</span>
 </label>
