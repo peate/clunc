@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'AX'
-SITENAME = u'clunc - Computerlinguistics Unconference'
+SITENAME = u'1. clunc'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -31,4 +31,4 @@ RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = "/home/ubuntu/virtualenvs/pelican/web/pelican-themes/zurb-F5-basic/"
+THEME = "theme"
