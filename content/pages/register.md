@@ -6,8 +6,8 @@ Slug: register
 Author: Robert Weißgraeber
 Summary: Register for clunc
 
-# Register Now!
-## 49 Tickets verfügbar!
+
+## Register now: 49 Tickets verfügbar!
 
 Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung!
 
