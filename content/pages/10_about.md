@@ -2,7 +2,7 @@ Title: Die Unconference
 Date: 2014-06-09
 Category: Clunc
 Tags: Clunc, Barcamp, Computer linguistik Unconference
-Slug: about
+Slug: 10_about
 Author: Danijela Grgic
 Summary: Über Clunc
 
