@@ -6,7 +6,7 @@ Slug: 20_programm
 Author: Robert Weißgraeber
 Summary: Programm
 
-Eine Unconference hat keine vorher festgelegtesn Inhalte. Alle Teilnehmer legen das Programm dann zu Beginn der Veranstaltung gemeinsam fest.
+Eine Unconference hat keine vorher festgelegten Inhalte. Alle Teilnehmer legen das Programm dann zu Beginn der Veranstaltung gemeinsam fest.
 
 Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vortrag beginnen. (Beide Themen noch tbd).
 
