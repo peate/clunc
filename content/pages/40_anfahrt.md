@@ -6,3 +6,5 @@ Slug: 40_anfahrt
 Author: Danijela Grgic
 Summary: Anfahrt zu clunc
 
+Wird rechtzeitig bekannt gegeben.
+
