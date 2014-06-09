@@ -8,6 +8,8 @@ Summary: Vom 11.7. bis 12.7. wird die erste Computational Linguistics Unconferen
 
 Im Juli findet die erste Computational Linguistics Unconference statt
 
+![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
+
 # Fakten
 * vom 11.7. bis 12.7. 
 * in Stuttgart
