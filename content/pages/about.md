@@ -13,12 +13,7 @@ Summary: Über Clunc
 
 ### Wo? - in Stuttgart
 
-### Programm?
-* wir starten jeweils um 9:30 mit Kaffee & Frühstück
-* 10-11 Uhr: kurzer Impulsvortrag, Vorstellungsrunde und Sessionplanung
-* 11-13 und 14-17 Uhr jeweils 1 stündige Sessions
-* 13-14 Uhr Mittagessen
-* Samstag Nachmittag gemeinsames Grillen und Ausklang
+### Wer? Computerlinguistinnen und Computerlinguisten - oder solche die dabei sind, es zu werden.
 
 ### Anmeldung? noch 49 Plätze frei!
 
