@@ -2,7 +2,7 @@ Title: Anmeldung
 Date: 2014-06-07 10:47
 Category: Conference
 Tags: Organisation
-Slug: anmeldung
+Slug: 30_anmeldung
 Author: Robert Weißgraeber
 Summary: Anmeldung zur clunc
 
