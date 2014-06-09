@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8" />
     <!-- Set the viewport width to device width for mobile -->
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=480px" />
 
     <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
@@ -17,7 +17,7 @@
 
 <!-- Nav Bar -->
 <nav>
-<div class="top-bar" data-topbar>
+<div class="top-bar">
 <div class="row">
     <div class="large-9 large-centered columns">
 	    <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
@@ -35,7 +35,7 @@
 
     {% if DISPLAY_PAGES_ON_MENU %}
         {% for page in PAGES %}
-            <li class="toggle-topbar menu-icon"><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
+            <li><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
         {% endfor %}
     {% endif %}
     </ul>
