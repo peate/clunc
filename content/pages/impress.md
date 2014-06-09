@@ -1,5 +1,5 @@
 Title: Impressum
-Date: 2010-12-03 10:20
+Date: 2014-06-09
 Category: 
 Tags: impressum, aexea, clunc, barcamp
 Slug: impress
