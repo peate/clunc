@@ -49,10 +49,6 @@ Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung!
 <input type="text" value="" maxlength="40" name="MMERGE3[city]" id="mce-MMERGE3-city" class="">
 </div>
 <div class="mc-field-group size1of2">
-    <label for="mce-MMERGE3-state">State/Province/Region</label>
-<input type="text" value="" maxlength="20" name="MMERGE3[state]" id="mce-MMERGE3-state" class="">
-</div>
-<div class="mc-field-group size1of2">
     <label for="mce-MMERGE3-zip">PLZ</label>
 <input type="text" value="" maxlength="10" name="MMERGE3[zip]" id="mce-MMERGE3-zip" class="">
 </div>
