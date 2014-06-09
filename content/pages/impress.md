@@ -7,7 +7,6 @@ Author: Danijela Grgic
 Summary: Impressum für clunc
 
 
-## Impressum
 Veranstalter: aexea GmbH – communication. content. consulting  
 Marienstraße 42  
 70178 Stuttgart  
