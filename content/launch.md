@@ -1,4 +1,4 @@
-Title: Willkommen zu CLUNC - der ersten Unconference für Computer Linguistik
+Title: Willkommen zu clunc - der ersten Unconference für Computer Linguistik
 Date: 2014-06-06 10:20
 Category: Marketing
 Tags: clunc, publishing
@@ -14,10 +14,10 @@ Im Juli findet die erste Computational Linguistics Unconference statt
 * Format: Unconference
 * bis zu 49 Teilnehmerinnen und Teilnehmer
 
-* Anmeldung
-* 
+* zur Anmeldung
 
-# Was ist eine Unconference (Barcamp)?
+
+## Was ist eine Unconference (Barcamp)?
 
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
 
