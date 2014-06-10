@@ -1,4 +1,4 @@
-Title: Willkommen zu clunc - der ersten Unconference für Computer Linguistik
+Title: Willkommen zu clunc - der ersten Unconference für Computerlinguistik
 Date: 2014-06-06 10:20
 Category: Marketing
 Tags: clunc, publishing
