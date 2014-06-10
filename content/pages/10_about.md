@@ -1,13 +1,13 @@
 Title: Die Unconference
 Date: 2014-06-09
 Category: Clunc
-Tags: Clunc, Barcamp, Computer linguistik Unconference
+Tags: Clunc, Barcamp, Computerlinguistik Unconference
 Slug: 10_about
 Author: Danijela Grgic
 Summary: Über Clunc
 
 
-# Die erste Unconference für Computer Linguistik - das CLUnc
+# Die erste Unconference für Computerlinguistik - das CLUnc
 
 <table>
     <tr>
