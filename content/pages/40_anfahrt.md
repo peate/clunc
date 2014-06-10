@@ -6,5 +6,8 @@ Slug: 40_anfahrt
 Author: Danijela Grgic
 Summary: Anfahrt zu clunc
 
-Wird rechtzeitig bekannt gegeben.
+
+Die Veranstaltung wird bei der MfG Baden-Württemberg stattfinden, im Literaturhaus Stuttgart (Innenstadt).
+
+Details zur Adresse & Anfahrtsbeschreibung wird rechtzeitig bekannt gegeben.
 
