@@ -8,7 +8,7 @@ Summary: Programm
 
 Eine Unconference hat keine vorher festgelegten Inhalte. Alle Teilnehmer legen das Programm dann zu Beginn der Veranstaltung gemeinsam fest.
 
-Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vortrag beginnen. (Beide Themen noch tbd).
+Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vortrag beginnen.
 
 ### Programm?
 * wir starten jeweils um 9:30 mit Kaffee & Frühstück
@@ -18,8 +18,11 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 * Freitag Nachmittag gemeinsames Grillen und Socializing
 
 
-#### Speaker Freitag: tbd
+#### Speaker Freitag: <Name>
+tbd
 
-#### Speaker Samstag: tbd
+
+#### Speaker Samstag: <Name>
+tbd
 
 
