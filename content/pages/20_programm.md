@@ -18,11 +18,11 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 * Freitag Nachmittag gemeinsames Grillen und Socializing
 
 
-#### Speaker Freitag: <Name>
+#### Speaker Freitag: (Name) (Thema)
 tbd
 
 
-#### Speaker Samstag: <Name>
+#### Speaker Samstag: (Name) (Thema)
 tbd
 
 
