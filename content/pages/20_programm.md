@@ -25,4 +25,6 @@ tbd
 #### Speaker Samstag: (Name) (Thema)
 tbd
 
+Für Speaker-Vorschläge sind wir offen!
+
 
