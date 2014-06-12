@@ -7,10 +7,10 @@ Author: Danijela Grgic
 Summary: Über Clunc
 
 
-# für Computerlinguistik - das clunc
+## für Computerlinguistik - das clunc
 
-clunc [klʌŋk]: 
-Wissen teilen, tauschen und erweitern 
+### clunc [klʌŋk]: 
+#### Wissen teilen, tauschen und erweitern 
 
 clunc ist die erste Unkonferenz zum Thema Computerlinguistik. Experten, Studierende und Interessierte in Stuttgart tauschen sich am 11. Und 12. Juli in Stuttgart über Themen der Computerlinguistik aus.
 
