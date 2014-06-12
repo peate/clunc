@@ -1,4 +1,4 @@
-Title: Die Unconference
+Title: Die Unkonferenz
 Date: 2014-06-09
 Category: Clunc
 Tags: Clunc, Barcamp, Computerlinguistik Unconference
@@ -7,7 +7,7 @@ Author: Danijela Grgic
 Summary: Über Clunc
 
 
-# Die erste Unconference für Computerlinguistik - das CLUnc
+# Die erste Unkonferenz für Computerlinguistik - das CLUnc
 
 <table>
     <tr>
@@ -40,6 +40,11 @@ Summary: Über Clunc
 ### Veranstalter
 Veranstaltet von der aexea GmbH in Partnerschaft mit der Medien- und Filmgesellschaft (MFG) Stuttgart
 
+### Sponsoren
+aexea
+MFG
+Esskultur
+VICO
 
 #### Was ist ein Barcamp?
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
