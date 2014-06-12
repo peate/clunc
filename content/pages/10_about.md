@@ -42,8 +42,11 @@ Veranstaltet von der aexea GmbH in Partnerschaft mit der Medien- und Filmgesells
 
 ### Sponsoren
 aexea
+
 MFG
+
 Esskultur
+
 VICO
 
 #### Was ist ein Barcamp?
