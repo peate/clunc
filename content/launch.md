@@ -1,4 +1,4 @@
-Title: Willkommen zu clunc - der ersten Unconference für Computerlinguistik
+Title: Willkommen zu clunc - der ersten Unkonferenz für Computerlinguistik
 Date: 2014-06-06 10:20
 Category: Marketing
 Tags: clunc, publishing
@@ -6,7 +6,7 @@ Slug: website-launch
 Author: Robert Weißgraeber 
 Summary: Vom 11.7. bis 12.7. wird die erste Computational Linguistics Unconference (clunc) stattfinden
 
-Im Juli findet die erste Computational Linguistics Unconference in Stuttgart statt.
+Im Juli findet die erste Computational Linguistics Unkonferenz in Stuttgart statt.
 
 ### Fakten
 * vom 11.7. bis 12.7. 
@@ -16,18 +16,29 @@ Im Juli findet die erste Computational Linguistics Unconference in Stuttgart sta
 
 * zur [Anmeldung](/pages/register.html)
 
-
-### Was ist eine Unconference (Barcamp)?
+### Was ist eine Unkonferenz (Barcamp)?
 
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
 
 [1]: https://www.youtube.com/watch?v=q6UenIRb0Yk
 
 
-#### Was ist Computerlinguistik?
 
-In der Computerlinguistik (CL) oder linguistischen Datenverarbeitung (LDV) wird untersucht, wie natürliche Sprache in der Form von Text- oder Sprachdaten mit Hilfe des Computers algorithmisch verarbeitet werden kann. Sie ist Teilbereich der künstlichen Intelligenz und gleichzeitig Schnittstelle zwischen Sprachwissenschaft und Informatik.
+### clunc [klʌŋk]: 
+#### Wissen teilen, tauschen und erweitern 
 
+clunc ist die erste Unkonferenz zum Thema Computerlinguistik. Experten, Studierende und Interessierte in Stuttgart tauschen sich am 11. Und 12. Juli in Stuttgart über Themen der Computerlinguistik aus.
+
+clunc: Themen und Sessions werden von den Teilnehmern gesteuert 
+
+Für clunc ist im Vorfeld kein Ablaufplan vorgegeben. Einen Einstieg in den Tag gibt jeweils ein Impulsvortrag. Danach entwickeln die Teilnehmer am Morgen den Ablauf des Unkonferenz-Tages: Ihr schlagt Themen vor, könnt Sessions leiten, Fragestellungen einwerfen, diskutieren oder zuhören. 
+
+Die Grundlagen von clunc:
+
+•	Das wichtigste ist der (Wissens-)Austausch.
+•	Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
+•	Alle Teilnehmer begegnen sich auf Augenhöhe.
+•	Jeder darf sich so beteiligen, wie er möchte.
 
 
 
