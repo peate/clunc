@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'AX'
+AUTHOR = u''
 SITENAME = u'clunc - 11./12. Juli - Stuttgart'
 SITEURL = ''
 
@@ -31,4 +31,4 @@ RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = "theme"
+THEME = "newtheme/pelican-foundation"
