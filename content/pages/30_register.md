@@ -9,7 +9,7 @@ Summary: Anmeldung zur clunc
 
 ## Jetzt anmelden: 49 Tickets verfügbar!
 
-Das 2-Tage-Ticket kostet 25EUR inkl. MwSt und Verpflegung! Wir schicken euch eine Rechnung an die angegebene Adresse.
+Das 2-Tage-Ticket kostet nichts - dank unserer Sponsoren :-)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
