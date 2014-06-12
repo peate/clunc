@@ -8,6 +8,22 @@ Summary: Vom 11.7. bis 12.7. wird die erste Computational Linguistics Unconferen
 
 Im Juli findet die erste Computational Linguistics Unkonferenz in Stuttgart statt.
 
+### clunc [klʌŋk]: 
+#### Wissen teilen, tauschen und erweitern 
+
+clunc ist die erste Unkonferenz zum Thema Computerlinguistik. Experten, Studierende und Interessierte in Stuttgart tauschen sich am 11. Und 12. Juli in Stuttgart über Themen der Computerlinguistik aus.
+
+clunc: Themen und Sessions werden von den Teilnehmern gesteuert 
+
+Für clunc ist im Vorfeld kein Ablaufplan vorgegeben. Einen Einstieg in den Tag gibt jeweils ein Impulsvortrag. Danach entwickeln die Teilnehmer am Morgen den Ablauf des Unkonferenz-Tages: Ihr schlagt Themen vor, könnt Sessions leiten, Fragestellungen einwerfen, diskutieren oder zuhören. 
+
+Die Grundlagen von clunc:
+
+* Das wichtigste ist der (Wissens-)Austausch.
+* Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
+* Alle Teilnehmer begegnen sich auf Augenhöhe.
+* Jeder darf sich so beteiligen, wie er möchte.
+
 ### Fakten
 * vom 11.7. bis 12.7. 
 * in Stuttgart
@@ -24,21 +40,6 @@ Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest,
 
 
 
-### clunc [klʌŋk]: 
-#### Wissen teilen, tauschen und erweitern 
-
-clunc ist die erste Unkonferenz zum Thema Computerlinguistik. Experten, Studierende und Interessierte in Stuttgart tauschen sich am 11. Und 12. Juli in Stuttgart über Themen der Computerlinguistik aus.
-
-clunc: Themen und Sessions werden von den Teilnehmern gesteuert 
-
-Für clunc ist im Vorfeld kein Ablaufplan vorgegeben. Einen Einstieg in den Tag gibt jeweils ein Impulsvortrag. Danach entwickeln die Teilnehmer am Morgen den Ablauf des Unkonferenz-Tages: Ihr schlagt Themen vor, könnt Sessions leiten, Fragestellungen einwerfen, diskutieren oder zuhören. 
-
-Die Grundlagen von clunc:
-
-* Das wichtigste ist der (Wissens-)Austausch.
-* Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
-* Alle Teilnehmer begegnen sich auf Augenhöhe.
-* Jeder darf sich so beteiligen, wie er möchte.
 
 
 
