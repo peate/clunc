@@ -28,7 +28,7 @@ Summary: Über Clunc
     </tr>
         <tr>
         <td>Kosten?</td>
-        <td>symbolischer 25 EUR Unkostenbeitrag</td>
+        <td>Kostenfrei! inkl. Verpflegung</td>
     </tr>
 </table>
 
