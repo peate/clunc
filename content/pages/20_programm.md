@@ -1,10 +1,10 @@
-Title: Programm
+Title: Ablauf
 Date: 2014-06-09
 Category: Programm
 Tags: clunc
-Slug: 20_programm
+Slug: 20_ablauf
 Author: Robert Weißgraeber
-Summary: Programm
+Summary: 
 
 Eine Unconference hat keine vorher festgelegten Inhalte. Alle Teilnehmer legen das Programm dann zu Beginn der Veranstaltung gemeinsam fest.
 
