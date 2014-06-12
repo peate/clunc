@@ -20,10 +20,10 @@ Für CLUNC ist im Vorfeld kein Ablaufplan vorgegeben. Einen Einstieg in den Tag 
 
 Die Grundlagen von clunc:
 
-•	Das wichtigste ist der (Wissens-)Austausch.
-•	Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
-•	Alle Teilnehmer begegnen sich auf Augenhöhe.
-•	Jeder darf sich so beteiligen, wie er möchte.
+* Das wichtigste ist der (Wissens-)Austausch.
+* Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
+* Alle Teilnehmer begegnen sich auf Augenhöhe.
+* Jeder darf sich so beteiligen, wie er möchte.
 
 
 
