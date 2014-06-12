@@ -7,7 +7,7 @@ Author: Danijela Grgic
 Summary: Über Clunc
 
 
-# Die erste Unkonferenz für Computerlinguistik - das CLUnc
+# für Computerlinguistik - das clunc
 
 <table>
     <tr>
