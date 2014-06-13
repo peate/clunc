@@ -54,7 +54,7 @@ Die Grundlagen von clunc:
 
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
-<a href"/media/clunc-flyer.pdf" download>Flyer zur Unkonferenz für Computerlinguistik (PDF)</a>
+<a href"http://www.clunc.de/media/clunc-flyer.pdf" download>Flyer zur Unkonferenz für Computerlinguistik (PDF)</a>
 
 
 
