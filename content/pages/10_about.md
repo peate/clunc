@@ -66,7 +66,6 @@ MFG (Partner)
 
 Esskultur
 
-VICO
 
 #### Was ist ein Barcamp?
 Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
