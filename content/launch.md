@@ -30,7 +30,7 @@ Die Grundlagen von clunc:
 * Format: Unconference
 * bis zu 49 Teilnehmerinnen und Teilnehmer
 
-* zur [Anmeldung](/pages/register.html)
+* zur [Anmeldung](/pages/30_anmeldung.html)
 
 ### Was ist eine Unkonferenz (Barcamp)?
 
