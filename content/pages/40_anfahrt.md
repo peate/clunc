@@ -41,8 +41,7 @@ Breitscheidstraße 4
 <table>
     <tr>
         <td>Parkhaus</td>
-        <td>#####Tarif Kurzparker</td>
-        <td>Abendtarif</td>
+        <td>Tarif</td>
         <td>Tageskarte</td>
     </tr>
         <tr>
